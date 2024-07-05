@@ -1,0 +1,102 @@
+[
+    {
+        "nombre": "Espresso Doble",
+        "valor": 2435,
+        "iva": 462.65
+    },
+    {
+        "nombre": "Ba;do de Frutas",
+        "valor": 3294,
+        "iva": 625.86
+    },
+    {
+        "nombre": "croisant",
+        "valor": 3362,
+        "iva": 638.78
+    },
+    {
+        "nombre": "Tarta de Frambuesa",
+        "valor": 2736,
+        "iva": 519.84
+    },
+    {
+        "nombre": "Ensalada",
+        "valor": 8313,
+        "iva": 1579.47
+    },
+    {
+        "nombre": "Galletas de Avena",
+        "valor": 7503,
+        "iva": 1425.57
+    },
+    {
+        "nombre": "Espresso Doble",
+        "valor": 3650,
+        "iva": 693.5
+    },
+    {
+        "nombre": "cafe americano",
+        "valor": 4924,
+        "iva": 935.5600000000001
+    },
+    {
+        "nombre": "cafe americano",
+        "valor": 2974,
+        "iva": 565.0600000000001
+    },
+    {
+        "nombre": "Jugo Naranja",
+        "valor": 8754,
+        "iva": 1663.26
+    },
+    {
+        "nombre": "Panini de Pavo y Queso",
+        "valor": 7142,
+        "iva": 1356.98
+    },
+    {
+        "nombre": "croisant",
+        "valor": 6779,
+        "iva": 1288.01
+    },
+    {
+        "nombre": "Chocolate Caliente",
+        "valor": 4876,
+        "iva": 926.44
+    },
+    {
+        "nombre": "Ensalada",
+        "valor": 7718,
+        "iva": 1466.42
+    },
+    {
+        "nombre": "Ba;do de Frutas",
+        "valor": 3728,
+        "iva": 708.32
+    },
+    {
+        "nombre": "Ba;do de Frutas",
+        "valor": 7413,
+        "iva": 1408.47
+    },
+    {
+        "nombre": "Frapp\u00c3\u00a9 de Caramelo",
+        "valor": 5852,
+        "iva": 1111.88
+    },
+    {
+        "nombre": "Pastel de Zanahoria",
+        "valor": 5731,
+        "iva": 1088.89
+    },
+    {
+        "nombre": "Panini de Pavo y Queso",
+        "valor": 7426,
+        "iva": 1410.94
+    },
+    {
+        "nombre": "Panini de Pavo y Queso",
+        "valor": 5232,
+        "iva": 994.08
+    }
+]
